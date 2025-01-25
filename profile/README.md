@@ -82,15 +82,17 @@ En NoCountry no solo ganas experiencia, también formas parte de una comunidad g
 
 ## 📥 Redes
 
-### [Discord](https://discord.gg/5MTzmsNXvx)
-### [Pagina Web](https://www.nocountry.tech/)
-### [Linkedin](https://www.linkedin.com/company/nocountrytalent/)
-### [Youtube](https://www.youtube.com/@Nocountrytech)
-### [Instagram](https://www.instagram.com/nocountry.tech)
+ <a href="https://discord.gg/5MTzmsNXvx"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" width="150" ></a>
+ <a href="https://www.instagram.com/nocountry.tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" width="175"></a>
+ <a href="https://www.youtube.com/@Nocountrytech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" width="150"></a>
+ <a href="https://www.nocountry.tech/"><img src="https://img.shields.io/badge/Pagina%20Web-0A8D48?style=for-the-badge&logo=internetexplorer" width="155"></a>
+ <a href="https://www.linkedin.com/company/nocountrytalent/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" width="125"></a>
+
 
 ## 📞 Contacto
 
 Si tienes dudas o necesitas más información, contáctanos por [Mail](mailto:contacto@nocountry.io).
+
 
 --- 
 
