@@ -27,9 +27,6 @@ La Simulación Laboral es una herramienta que recrea un entorno laboral real, do
 - Presenta tu proyecto final al mundo.
 - Mejora tus habilidades de presentación y demuestra tus logros profesionales.
 
-### Feedback y Certificado
-- Recibe calificaciones de tu equipo y un certificado que avale tu experiencia.
-
 ## 🌟 Beneficios de Participar
 
 1. **Colaboración en Equipos Multidisciplinarios:** Aprende a trabajar con roles diversos, como Frontend, Backend, QA, UX/UI, y más.
