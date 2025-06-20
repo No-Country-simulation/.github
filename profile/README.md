@@ -1,4 +1,4 @@
-# NoCountry - Simulación Laboral Tech
+# No Country - Simulación Laboral
 
 **¿La falta de experiencia es un obstáculo para lograr tu primer empleo?**
 
